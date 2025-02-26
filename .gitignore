@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+/triagem_curriculos
 
 # C extensions
 *.so
